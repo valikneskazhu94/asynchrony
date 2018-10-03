@@ -1,0 +1,9 @@
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\bin\Debug\asynchronyHW.exe.config
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\bin\Debug\asynchronyHW.exe
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\bin\Debug\asynchronyHW.pdb
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\obj\Debug\asynchronyHW.csprojResolveAssemblyReference.cache
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\obj\Debug\asynchronyHW.Form1.resources
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\obj\Debug\asynchronyHW.Properties.Resources.resources
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\obj\Debug\asynchronyHW.csproj.GenerateResource.Cache
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\obj\Debug\asynchronyHW.exe
+c:\users\mak\documents\visual studio 2017\Projects\asynchronyHW\asynchronyHW\obj\Debug\asynchronyHW.pdb
